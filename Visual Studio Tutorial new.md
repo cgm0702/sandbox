@@ -1,4 +1,4 @@
-#How to create a new Win32 C++ in Visual Studio 2017 
+# How to create a new Win32 C++ in Visual Studio 2017 
 
 1. Open up Visual Studios 2017 on your windwos desktop
 
